@@ -1,5 +1,28 @@
 {
   "dependencies": {
+    "@types/node": "^25.3.3",
     "readline-sync": "^1.4.10"
+  },
+  "name": "atividades_generation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbgx014/atividades_generation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jbgx014/atividades_generation/issues"
+  },
+  "homepage": "https://github.com/jbgx014/atividades_generation#readme",
+  "devDependencies": {
+    "@types/readline-sync": "^1.4.8"
   }
 }
